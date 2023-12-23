@@ -1,1 +1,1 @@
-# SIH_ElevateX
+Use the code python app.py to run the file
